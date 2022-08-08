@@ -1,0 +1,13 @@
+https://github.com/Furkan-Gulsen/T-Rex-Game-with-CNN
+
+https://www.google.com/search?q=data+visualization+projects+in+r+of+google+trends+world+cup+dataset&sxsrf=ALeKk00dNzYaJd_0Brr6UA78lNc19MNaRA%3A1621578210379&ei=4lGnYPDTFoKA9QORlYfoBw&oq=data+visualization+projects+in+r+of+google+trends+world+cup+dataset&gs_lcp=Cgdnd3Mtd2l6EAM6BwgAEEcQsAM6BAgjECc6BAghEApQicIKWMzdCmCO4QpoAXACeACAAf8BiAGoDpIBBTAuNy4zmAEAoAEBqgEHZ3dzLXdpesgBCMABAQ&sclient=gws-wiz&ved=0ahUKEwjwzNHJkdrwAhUCQH0KHZHKAX0Q4dUDCA4&uact=5
+
+https://github.com/awesomedata/awesome-public-datasets
+
+https://towardsdatascience.com/exploratory-analysis-of-fifa-18-dataset-using-r-ba09aa4a2d3c
+
+https://towardsdatascience.com/exploratory-analysis-of-pokemons-using-r-8600229346fb
+
+https://rpubs.com/theairbend3r/ggplot-em-all-pokemon
+
+https://medium.com/@theairbend3r/r-pokemon-legendary-5aac4af80b9c
